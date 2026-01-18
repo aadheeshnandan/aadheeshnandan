@@ -1,11 +1,12 @@
-<div align="center" style="max-height: 320px; overflow: hidden;">
-  <img 
+<div align="center">
+  <img
     src="./assets/hero/hero.gif"
     alt="Animated desk setup with live displays"
+    width="800"
   />
 </div>
 
-<h1 align="center">Hi, I'm Aadheesh</h1>
+<h1 align="center">Aadheesh Nandan</h1>
 
 <p align="center">
   Computer Engineering @ University of Waterloo<br/>
@@ -25,8 +26,8 @@
 </p>
 
 ### 📌 Featured Projects
-- **TraceML** — Distributed ML Failure Detection  
-- **No-Prompt** — Screenshot-Driven Debugging  
+- **TraceML** — Distributed ML Failure Observatory  
+- **No-Prompt** — AI-Driven Direct Screenshot Debugging  
 - **Mistral-7b Fine-tune** 
 
 ### 📬 Connect
