@@ -1,4 +1,4 @@
-<div align="center" style="max-height: 420px; overflow: hidden;">
+<div align="center" style="max-height: 320px; overflow: hidden;">
   <img 
     src="./assets/hero/hero.gif" 
     width="850" 
@@ -7,7 +7,7 @@
   />
 </div>
 
-<h1 align="center">Hi 👋, I'm Aadheesh</h1>
+<h1 align="center">Hi, I'm Aadheesh</h1>
 
 <p align="center">
   Computer Engineering @ University of Waterloo<br/>
@@ -23,20 +23,16 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,go,java,js,ts,react,linux,git,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,java,js,ts,react,sql,django,linux,git,docker,kubernetes" />
 </p>
 
 ### 📌 Featured Projects
-- **FocusHub** — Productivity monitoring & insights tool  
-- **AI Summarizer** — Lightweight summarization pipeline  
-- **Portfolio** — Personal site & experiments  
+- **TraceML** — Distributed ML Failure Detection  
+- **No-Prompt** — Screenshot-Driven Debugging  
+- **Mistral-7b Fine-tune** 
 
 ### 📬 Connect
 - Email: aadheeshnandan@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/aadheesh-nandan-12b40a225/
 
 ---
-
-<p align="center">
-  <sub>“Simple systems scale best.”</sub>
-</p>
