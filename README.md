@@ -23,7 +23,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,go, java,js,ts,react,linux,git,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,java,js,ts,react,linux,git,docker" />
 </p>
 
 ### 📌 Featured Projects
