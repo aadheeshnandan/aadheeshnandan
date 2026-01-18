@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="./assets/hero/hero.gif" width="850" alt="Animated desk setup with live displays" />
-</p>
+<div align="center" style="max-height: 420px; overflow: hidden;">
+  <img 
+    src="./assets/hero/hero.gif" 
+    width="850" 
+    alt="Animated desk setup with live displays"
+    style="margin-bottom: -220px;"
+  />
+</div>
 
 <h1 align="center">Hi 👋, I'm Aadheesh</h1>
 
