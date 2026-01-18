@@ -1,7 +1,6 @@
 <div align="center" style="max-height: 320px; overflow: hidden;">
   <img 
-    src="./assets/hero/hero.gif" 
-    width="950" 
+    src="./assets/hero/hero.gif"
     alt="Animated desk setup with live displays"
   />
 </div>
@@ -22,7 +21,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,go,java,js,ts,pytorch,tensorflow,keras,numpy,pandas,aws,gcp,react,assembly,,django,linux,git,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,java,js,ts,pytorch,tensorflow,aws,gcp,react,assembly,django,linux,git,docker,kubernetes" />
 </p>
 
 ### 📌 Featured Projects
