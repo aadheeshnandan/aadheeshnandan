@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/hero/hero.gif" width="850" alt="Animated desk setup with live displays" />
+</p>
 
-<!--
-**aadheeshnandan/aadheeshnandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aadheesh</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computer Engineering @ University of Waterloo<br/>
+  Prev. Software Developer @ IBM
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+- 🔧 Interested in **systems, infrastructure, and applied machine learning**
+- 📈 Enjoy building tools that are **practical and useful**
+- 🌱 Currently learning more about **distributed systems & ML infrastructure**
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,node,linux,git,docker" />
+</p>
+
+### 📌 Featured Projects
+- **FocusHub** — Productivity monitoring & insights tool  
+- **AI Summarizer** — Lightweight summarization pipeline  
+- **Portfolio** — Personal site & experiments  
+
+### 📬 Connect
+- Email: aadheeshnandan@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/aadheesh-nandan-12b40a225/
+
+---
+
+<p align="center">
+  <sub>“Simple systems scale best.”</sub>
+</p>
