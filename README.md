@@ -2,7 +2,7 @@
   <img
     src="./assets/hero/hero.gif"
     alt="Animated desk setup with live displays"
-    width="500"
+    width="550"
   />
 </div>
 
