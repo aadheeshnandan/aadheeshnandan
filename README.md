@@ -17,7 +17,7 @@
 
 ### 🧠 About Me
 - 🔧 Interested in **systems, infrastructure, and applied machine learning**
-- 📈 Enjoy building tools that are **practical and useful**
+- ⚽️ Enjoy playing and watching soccer
 - 🌱 Currently learning more about **distributed systems & ML infrastructure**
 
 ### 🛠️ Languages & Tools
@@ -27,9 +27,9 @@
 </p>
 
 ### 📌 Featured Projects
-- **TraceML** — Distributed ML Failure Observatory  
 - **No-Prompt** — AI-Driven Direct Screenshot Debugging  
-- **Mistral-7b Fine-tune** 
+- Fine-Tuned Open-Source **Mistral-7B** on internal League1 Ontario Mens U20 (canadian semi-pro league)
+- 
 
 ### 📬 Connect
 - Email: aadheeshnandan@gmail.com  
