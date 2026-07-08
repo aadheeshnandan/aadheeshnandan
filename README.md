@@ -27,9 +27,9 @@
 </p>
 
 ### 📌 Featured Projects
-- **No-Prompt** — AI-Driven Direct Screenshot Debugging  
-- Fine-Tuned Open-Source **Mistral-7B** on internal League1 Ontario Mens U20 (canadian semi-pro league)
-- 
+- **SoleForce** — Micro-CRM for freelancers, https://micro-crm-peach.vercel.app/
+- Fine-Tuned Open-Source **Mistral-7B** on Peter Drury's Soccer Commentary - Takes events as input and outputs full-fledged text commentary.
+    -  Currently working on voice agent implementation for Peter Drury's voice
 
 ### 📬 Connect
 - Email: aadheeshnandan@gmail.com  
